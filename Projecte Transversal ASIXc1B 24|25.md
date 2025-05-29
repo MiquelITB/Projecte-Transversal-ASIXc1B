@@ -16,7 +16,7 @@
 - [Monitoratge intel·ligent – EcoStruxure IT Expert](#monitoratge-intelligent--ecostruxure-it-expert)
 - [Generador de suport](#generador-de-suport)
 - [1.5. Sostenibilitat](#15-sostenibilitat)
-- [1.6 Implementació del CPD al núvol AWS amb els serveis utilitzats](#16-implementació-del-cpd-al-núvol-aws-amb-els-serveis-utilitzats)
+- [1.6 Implementació del CPD al núvol AWS amb els serveis utilitzats](#1.6_Implementació_del_CPD_al_núvol_AWS_amb_els_serveis_utilitzats)
 - [1.7 Investigar i comparar eficiència energètica amb altres proveïdors del núvol](#17-investigar-i-comparar-eficiència-energètica-amb-altres-proveïdors-del-núvol)
 - [Implantació dels serveis d'àudio i vídeo](#implantació-dels-serveis-dàudio-i-vídeo)
 - [Disseny i implementació d'una base de dades](#disseny-i-implementació-duna-base-de-dades)
@@ -230,9 +230,9 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 
 #### Serveis utilitzats
 
-1. **Servei d'àudio:** Icecast2 + ezstream | server 2 | user: admin psswrd: ITB2025
+1. **Servei d'àudio:** Icecast2 + ezstream | server 2
 2. **Servei de vídeo:** FFmpeg | server 3
-3. **Bases de dades:** MySQL | server 1 | user: ubuntu pass @ITB2025
+3. **Bases de dades:** MySQL | server 1 
 4. **Servei Web:** Nginx | server 1 i 2
 5. **Cockpit** | server 1
 6. **Samba** | server 1
