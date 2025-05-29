@@ -194,6 +194,8 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 | Grup de seguretat | launch-wizard-1 |
 | Clau d'accés SSH | vockey |
 
+---
+
 ##### Server 2
 | Paràmetre | Valor |
 |----------|--------|
@@ -208,6 +210,8 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 | Plataforma | Linux/UNIX |
 | Grup de seguretat | launch-wizard-1 |
 | Clau d'accés SSH | vockey |
+
+---
 
 ##### Server 3
 | Paràmetre | Valor |
