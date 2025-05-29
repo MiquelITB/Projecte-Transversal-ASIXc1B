@@ -224,10 +224,6 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 | Grup de seguretat | launch-wizard-3 |
 | Clau d'accés SSH | vockey |
 
-
-![image](https://github.com/user-attachments/assets/dd07fc87-3adc-4cdf-b016-30fc03a4a82c)
-
-
 #### Serveis utilitzats
 
 1. **Servei d'àudio:** Icecast2 + ezstream | server 2
