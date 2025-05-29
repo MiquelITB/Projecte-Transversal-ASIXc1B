@@ -181,7 +181,7 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 
 ##### Server 1
 | Paràmetre | Valor |
-|----------|--------|
+|-----------|-------|
 | Nom | G3 - Server |
 | Instance ID | i-0571b65dc865ff636 |
 | Estat de la instància | Running |
@@ -198,7 +198,7 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 
 ##### Server 2
 | Paràmetre | Valor |
-|----------|--------|
+|-----------|-------|
 | Nom | G3 - Server2 |
 | Instance ID | i-08b5506c5a3e60799 |
 | Estat de la instància | Running |
@@ -215,7 +215,7 @@ Per complementar la proposta de CPD físic, s'ha creat una instància EC2 a Amaz
 
 ##### Server 3
 | Paràmetre | Valor |
-|----------|--------|
+|-----------|-------|
 | Nom | G3 - Server3 |
 | Instance ID | i-0c4a6080211797071 |
 | Estat de la instància | Running |
